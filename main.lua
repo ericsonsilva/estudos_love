@@ -11,9 +11,9 @@ table.insert(testscore, 87)
 table.insert(testscore, 98)
 
 messege=testscore[3]
-]]
+--]]
 
--- função de manuipulação de itens na tabela
+-- função de manuipulação de itens na tabela. Subject iserido na tabela.
 testscore={95, 87, 98}
 
 testscore.subject = "history"
